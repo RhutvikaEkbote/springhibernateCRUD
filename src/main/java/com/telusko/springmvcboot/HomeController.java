@@ -76,7 +76,7 @@ public class HomeController {
 				System.out.println("in alien delete");
 		    	
 				repo.deleteById(aid);;
-				return "showaliens";
+				return "delete";
 			}
 		
 		/*@RequestMapping("findAlien")

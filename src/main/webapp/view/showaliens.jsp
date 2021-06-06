@@ -8,9 +8,8 @@
 </head>
 <body>
 
-deleted successfully
-<%--your aliens are :${result} --%>
-your aliens are
-${result}
+
+your aliens are :${result} 
+
 </body>
 </html>
